@@ -1,0 +1,23 @@
+body
+{ padding: 0%;
+    margin: 0%;
+    margin-right: 20px;
+    background-image: url(human-skeleton-163715_1280.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+
+
+}
+.tt
+{
+    
+    position: absolute;
+    top: 60%;
+    
+    width: 600px;
+    padding: 40px;
+    right: 30%;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+   
+}
